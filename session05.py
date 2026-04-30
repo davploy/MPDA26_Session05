@@ -1,4 +1,6 @@
+#r: scipy
 # this is Your Name homework
+
 
 from typing import cast, Any
 
@@ -9,7 +11,7 @@ y = cast(int, y)  # type: ignore
 
 
 # MAIN CODE
-
+safa
 
 
 
