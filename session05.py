@@ -16,4 +16,4 @@ y = cast(int, y)  # type: ignore
 
 
 # DEFINE OUTPUTS
-a = 0
+a = "this is a another test"
